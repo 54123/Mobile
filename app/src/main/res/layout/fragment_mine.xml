@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mine_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#eeeeee"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/mine_tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="#0185ce"
+        android:gravity="center"
+        android:text="我的"
+        android:textSize="17sp"
+        android:textColor="#ffffff" />
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"
+        android:layout_marginTop="2dp"
+        android:background="#f5f5f5" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="#ffffff"
+        android:paddingLeft="20dp" >
+
+        <LinearLayout
+            android:id="@+id/mine_layout_message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp" >
+
+            <ImageView
+                android:id="@+id/mine_iv_photo"
+                android:layout_width="44dp"
+                android:layout_height="44dp"
+                android:src="@mipmap/icon" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="58dp"
+                android:orientation="vertical"
+                android:paddingLeft="10dp" >
+
+                <TextView
+                    android:id="@+id/mine_tv_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="null"
+                    android:textColor="#333333" />
+
+                <TextView
+                    android:id="@+id/mine_tv_userId"
+                    android:layout_width="wrap_content"
+                    android:layout_height="15dp"
+                    android:text="帐号: "
+                    android:textColor="#333333"
+                    android:textSize="10dp" />
+
+                <TextView
+                    android:id="@+id/mine_tv_phone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="18dp"
+                    android:text="联系电话: "
+                    android:textColor="#333333"
+                    android:textSize="10dp" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

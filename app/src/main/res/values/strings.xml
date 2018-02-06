@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">掌上资源</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="search">搜索</string>
+    <string name="searchhint">请输入关键字</string>
+    <string name="searchtimehint">请选择时间</string>
+    <string name="layercontrol">图层控制</string>
+    <string name="index_tools">常用工具</string>
+    <string name="index_nearby">周边搜索</string>
+    <string name="index_exit_corrigendum">退出勘误</string>
+    <string name="index_qc">清除</string>
+    <string name="index_cj">测距</string>
+    <string name="index_longlat">测面</string>
+    <string name="index_zyyp">标注</string>
+    <string name="index_collect">采集</string>
+    <string name="index_maintain">维护</string>
+    <string name="compass">指北针</string>
+    <string name="off_line_map">离线地图</string>
+    <string name="fpurl">首页URL：</string>
+    <string name="classifyurl">分类URL：</string>
+
+
+    <string name="globalSearch">全量搜索</string>
+    <string name="nearbySearch">附近搜索</string>
+    <string name="condition">条件</string>
+    <string name="select">筛选</string>
+    <string name="name">名称</string>
+    <string name="type">类型</string>
+    <string name="distance">距离</string>
+    <string name="input">输入关键字...</string>
+    <string name="empty">清空历史记录</string>
+    <string name="nearbyResource">附近资源</string>
+    <string name="ok">确认</string>
+    <string name="location">当前位置</string>
+    <string name="address">地址:&#160;&#160;</string>
+    <string name="coordinates">坐标:&#160;&#160;</string>
+    <string name="mapLocate">地图选点</string>
+    <string name="distant">勘察距离</string>
+    <string name="resourceRange">资源范围</string>
+    <string name="Ido">我负责</string>
+    <string name="all">全部</string>
+    <string name="resSetting">地图资源设置（可多选）</string>
+
+
+    <string name="head">这里是HeadView</string>
+    <string name="pull_to_refresh">下拉加载上一页</string>
+    <string name="release_to_refresh">当前是第%1$s页,释放加载上一页</string>
+    <string name="pullup_to_load">上拉加载下一页</string>
+    <string name="release_to_load">释放立即加载下一页</string>
+    <string name="loading">正在加载...</string>
+    <string name="load_succeed">加载成功</string>
+    <string name="load_fail">加载失败</string>
+
+    <string name="waiting">加载中……</string>
+
+    <string name="pageNumber">当前是第%1$s页</string>
+    <string name="helpAndfeedback">帮助和反馈</string>
+    <string name="contacts">通讯录</string>
+    <string name="forget">忘记密码</string>
+    <string name="userlogin">用户登录</string>
+    <string name="help">帮助</string>
+    <string name="setting">设置</string>
+    <string name="message">消息</string>
+    <string name="memberName">成员名称</string>
+    <string name="myGroup">我的群组</string>
+    <string name="picList">图片列表</string>
+    <string name="offLineMap">离线地图</string>
+    <string name="phoneNumberVerification">手机号验证</string>
+    <string name="editPic">编辑照片</string>
+    <string name="previewPic">预览图片</string>
+
+    <string name="addTubeLine">新增管道段</string>
+</resources>
